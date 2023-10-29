@@ -1,4 +1,4 @@
-## **🔍 Automatic Subtitle Generation for Bengali Multimedia Using Deep Learning 📊🔬**
+## **🔍Automatic Subtitle Generation for Bengali Multimedia Using Deep Learning📊🔬**
 
 In this repository, you'll find the code and resources for our project focused on automating Bengali subtitle generation for multimedia content. We've harnessed the power of deep learning techniques and Automatic Speech Recognition (ASR) to create a system that accurately transcribes Bengali audio into text, synchronizing it seamlessly with multimedia.
 
